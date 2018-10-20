@@ -4,8 +4,6 @@ Performance on popular benchmarks and related papers
 
 **Share results for `more recent` trackers.**
 
-:high_brightness: **All results in [[Baidu Yun](https://pan.baidu.com/s/1c27e9Ew)]** :high_brightness:
-
 ![recent_develop](./img/recent_Tracker_development.png)
 ![OTB2013_results](./img/OTB2013_results.png)
 ![TB-100_results](./img/TB-100_results.png)
