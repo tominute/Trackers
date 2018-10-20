@@ -4,12 +4,6 @@ Performance on popular benchmarks and related papers
 
 **Share results for `more recent` trackers.**
 
-![recent_develop](./img/recent_Tracker_development.png)
-![OTB2013_results](./img/OTB2013_results.png)
-![TB-100_results](./img/TB-100_results.png)
-![TB-50_results](./img/TB-50_results.png)
-
-
 ## Benchmark Results
 
 **The trackers are ordered by the average overlap scores.**
