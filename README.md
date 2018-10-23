@@ -30,7 +30,7 @@ Performance on popular benchmarks and related papers
 |     DNT     |    0.664     |       0.907        |   0.627    |      0.851       |     -     |        -        |       Y       |    N(5)    |
 |    PTAV     |    0.663     |       0.894        |   0.635    |      0.849       |           |                 |       Y       |   Y(25)    |
 |    ADNet    |    0.659     |       0.903        |   0.646    |       0.88       |           |                 |       Y       |    N(3)    |
-|     MKCFup  |  0.657       |       0.853        | -          |    -             |  -        |     -           |       N       |    N(175)    |
+|     MKCFup  |  0.657       |       0.853        | -          |    -             |  -        |     -           |       N       |    N(**175**)    |
 |   DSiamM    |    0.656     |       0.891        |            |                  |           |                 |       Y       |   Y(25)    |
 |    SINT+    |    0.655     |       0.882        |     -      |        -         |     -     |        -        |       Y       |    N(4)    |
 |     DRT     |    0.655     |       0.892        |     -      |        -         |     -     |        -        |       Y       |   N(0.8)   |
@@ -68,7 +68,7 @@ Performance on popular benchmarks and related papers
 |    DSST     |    0.554     |       0.737        |    0.52    |      0.693       |   0.463   |      0.625      |       N       |   Y(24)    |
 |     CNT     |    0.545     |       0.723        |     -      |        -         |     -     |        -        |       Y       |   N(1.5)   |
 |    TGPR     |    0.529     |       0.766        |   0.458    |      0.643       |     -     |        -        |       N       |    N(1)    |
-|     KCF     |    0.514     |        0.74        |   0.477    |      0.693       |   0.403   |      0.611      |       N       | Y(**172**) |
+|     KCF     |    0.514     |        0.74        |   0.477    |      0.693       |   0.403   |      0.611      |       N       | Y(*172*) |
 |   GOTURN    |    0.444     |        0.62        |   0.427    |      0.572       |     -     |        -        |       Y       |  Y(*165*)  |
 
 ## Visual Trackers
@@ -205,6 +205,7 @@ Performance on popular benchmarks and related papers
 * **MKCF:** Ming Tang, Bin Yu, Fan Zhang, Jinqiao Wang.
   "High-speed Tracking with Multi-kernel Correlation Filters." CVPR (2018).
   [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_High-Speed_Tracking_With_CVPR_2018_paper.pdf)]
+  [[github](https://github.com/tominute/MKCFup)]
   
 * **HP:** Xingping Dong, Jianbing Shen, Wenguan Wang, Yu, Liu, Ling Shao, and Fatih Porikli.
   "Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning." CVPR (2018).
